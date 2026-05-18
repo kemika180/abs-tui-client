@@ -16,6 +16,9 @@ A modern, intuitive Terminal User Interface (TUI) client for [Audiobookshelf](ht
 
 - **Rust:** Latest stable version.
 - **MPD:** A running Music Player Daemon instance (default: `localhost:6600`).
+  - **Linux:** `sudo apt install mpd` (Ubuntu/Debian) or `sudo pacman -S mpd` (Arch).
+  - **macOS:** `brew install mpd`.
+  - **Windows:** Download from [Music Player Daemon website](https://www.musicpd.org/download.html).
 - **Audiobookshelf Server:** Access to an Audiobookshelf instance.
 
 ## Installation
